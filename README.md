@@ -1,2 +1,6 @@
 # vllm_readcode
-vllm_readcode
+
+使用AI工具辅助阅读vllm源码的每个细节
+
+项目正在初始化中，2025.7月底 会完成源码阅读的任务拆分
+
