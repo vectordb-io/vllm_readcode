@@ -6,6 +6,6 @@
 
 同步进行的项目还有：
 
-向量数据库的开发：https://github.com/vectordb-io/vectordb
+分布式向量数据库：https://github.com/vectordb-io/vectordb
 
-分布式推理框架的开发：https://github.com/vectordb-io/veka
+分布式大模型推理框架：https://github.com/vectordb-io/veka
