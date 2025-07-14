@@ -8,4 +8,4 @@
 
 向量数据库的开发：https://github.com/vectordb-io/vectordb
 
-分布式推理框架的开发：
+分布式推理框架的开发：https://github.com/vectordb-io/veka
